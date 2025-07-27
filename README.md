@@ -33,9 +33,10 @@ This dataset, provided as **`abalone_growth.csv`**, collects measurements on aro
 
 ## The aims of project
 
+- Cleaning the raw and dirty dataset
 - Explore correlations between physical features and abalone age  
-- Apply machine learning models to predict age  
-- Evaluate model performance using RMSE, MAE, and R² metrics  
+- Apply the basic of machine learning models to predict age  
+- Formula the linear metrics between ages and rings
 
 ---
 
