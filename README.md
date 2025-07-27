@@ -1,7 +1,7 @@
 
 # 🐚 Abalone Age Prediction
 
-This project aims to predict the **age of abalone** — large, slow-growing marine snails — using physical measurements and weights, based on a dataset of ~4000 harvested specimens. The goal is to find a **non-invasive** method of estimating age, without needing to dissect the animal.
+This project aims to predict the **age of abalone** large, slow-growing marine snails using physical measurements and weights, based on a dataset of ~4,000 harvested specimens. The goal is to find a **non-invasive** method of estimating age, without needing to dissect the animal.
 
 ---
 
