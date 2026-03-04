@@ -1,7 +1,7 @@
 
 # 🐚 Abalone Age Prediction
 
-This project aims to predict the **age of abalone** large, slow-growing marine snails using physical measurements and weights, based on a dataset of ~4,000 harvested specimens. The goal is to find a **non-invasive** method of estimating age, without needing to dissect the animal.
+This project is one of the core assignment in my school units aiming to predict the **age of abalone** large, slow-growing marine snails using physical measurements and weights, based on a dataset of ~4,000 harvested specimens. The goal is to find a **non-invasive** method of estimating age on the basis of Exploratory Data Analysis approaches, without needing to dissect the animal.
 
 ---
 
@@ -17,6 +17,14 @@ This dataset, provided as **`abalone_growth.csv`**, collects measurements on aro
 
 ## Dataset Description
 
+This dataset contains measurements of abalone, a type of marine mollusk, and is commonly used for age prediction and regression analysis. The data was collected from the Kaggle repository and Macquarie School data bank. 
+
+The dataset includes physical characteristics (size and weight measurements) of abalone.
+
+The target variable is **Rings**, which represents the number of growth rings.
+
+Following by 9 Feature Names with their descriptions below:
+
 | Feature Name      | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
 | `Sex`             | Categorical variable: **M** (Male), **F** (Female), **I** (Infant)          |
@@ -31,7 +39,7 @@ This dataset, provided as **`abalone_growth.csv`**, collects measurements on aro
 
 ---
 
-## The aims of project
+## The aims of EDA project
 
 - Cleaning the raw and dirty dataset
 - Explore correlations between physical features and abalone age  
